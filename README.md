@@ -44,9 +44,6 @@
 
 ---
 
-## 🛠 사용된 주요 라이브러리
-
-```python
-pandas, numpy, matplotlib, seaborn  
-scikit-learn (DecisionTree, RandomForest, GridSearchCV)  
-shap (SHAP value 분석)
+## 🛠 재현 방법
+- csv 파일 모두 다운로드 받은 후
+- 주석에 따라 ipynb 파일 실행
